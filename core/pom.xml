@@ -19,7 +19,7 @@
             <version>${spring.version}</version>
         </dependency>
 
-        <!-- Testing -->
+        <!-- Testingd -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
